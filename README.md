@@ -1,7 +1,7 @@
 # Faculdade-SI
 Projetos desenvolvidos durante a faculdade.
 
-Atualizado 02/06/2022
+Atualizado 02/06/2022.
 
 Disciplina de Estrutura de dados: 
 
