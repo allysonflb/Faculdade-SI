@@ -1,5 +1,5 @@
 # Faculdade-SI
-Projetos desenvolvidos para e durante a faculdade.
+Projetos desenvolvidos durante a faculdade.
 
 Atualizado 02/06/2022
 
