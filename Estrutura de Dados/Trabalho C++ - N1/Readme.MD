@@ -12,6 +12,8 @@ The project has the following options:
 
 - Search student by position in the list.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 PT-BR - descrição:
 
 O objetivo desse projeto foi de criar uma estrutura de alunos e alocar eles utilizando do método de vetor dinâmico.
