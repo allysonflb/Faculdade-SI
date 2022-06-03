@@ -1,4 +1,5 @@
 EN
+
 Short - description:
 
 The objective of this work was to create a system made in Java swing connected to a MySQL database using Maven for such an approach.
@@ -22,6 +23,7 @@ Main features:
   
   Transfers between DB accounts.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PT-BR
 Descrição:
