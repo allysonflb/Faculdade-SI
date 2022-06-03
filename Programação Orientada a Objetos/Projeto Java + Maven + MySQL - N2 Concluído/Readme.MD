@@ -11,17 +11,23 @@ The established idea of creating the project was a Virtual Bank to be used throu
 BankProject - Summary
 
 Main features:
-  Connection with DB MySQL,
+- Connection with DB MySQL,
   
-  User account creation,
+- User account creation,
   
-  Balance inquiry,
+- Balance inquiry,
   
-  Pix query,
+- Pix query,
   
-  Loan,
+- Loan,
   
-  Transfers between DB accounts.
+- Transfers between DB accounts.
+
+How to use:
+
+First: Create the database in MySQL using the script provided.
+
+Second: Run the program through the .jar file or compile the project in Netbeans.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,15 +43,20 @@ BankProject - Resumo
 
 Principais ações:
   
-  Conexão com DB MySQL,
+- Conexão com DB MySQL,
   
-  Criação de conta de usuário,
+- Criação de conta de usuário,
   
-  Consulta de saldo,
+- Consulta de saldo,
   
-  Consulta de Pix,
+- Consulta de Pix,
   
-  Empréstimo,
+- Empréstimo,
   
-  Transfêrencias entre contas do DB.
-  
+- Transfêrencias entre contas do DB.
+
+Como usar:
+
+Primeiro: Crie o banco de dados no MySQL usando o script fornecido.
+
+Segundo: Execute o programa através do arquivo .jar ou compile o projeto no Netbeans.
