@@ -2,7 +2,7 @@ EN
 
 Short - description:
 
-The objective of this work was to create a system made in Java swing connected to a MySQL database using Maven for such an approach.
+The objective of this project was to create a system made in Java swing connected to a MySQL database using Maven for such an approach.
 
 The established idea of creating the project was a Virtual Bank to be used through a simple, but functional app where the user could create their account and carry out the movement of it, either increasing the balance value via loans or decreasing this value via transfers to other accounts registered in the database, to carry out the transfers a account number (Pix) of 6*** is generated during the creation of the account, this number is unique and exclusive for each account to be created.
 
