@@ -1,4 +1,4 @@
-EN-US - description:
+EN - description:
 
 The objective of this project was to create a structure of students and allocate them using the dynamic vector method.
 
